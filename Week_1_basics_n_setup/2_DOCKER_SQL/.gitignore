@@ -1,0 +1,3 @@
+# Ignore specific files and directories
+Week_1_basics_n_setup/2_DOCKER_SQL/yellow_tripdata_2021-01.parquet
+Week_1_basics_n_setup/2_DOCKER_SQL/ny_taxi_postgres_data/
